@@ -1,7 +1,11 @@
 ### Hi there 👋
 ***
-- A student from Zhejiang University of Technology 
-- Welcome to visit my website flow127.cn
+### About me
+***
+ A normal student from Zhejiang University of Technology <br/>🌱
+ welcome to <a href="flow127.cn">my website</a>😄
+***
+
 <!--
 **ydduuccuuf/ydduuccuuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
